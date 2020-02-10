@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Right Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.770936,40 C18.0615764,40 17.3533251,39.7158738 16.81133,39.1476215 C15.7295567,38.0099524 15.7295567,36.1677902 16.81133,35.0301211 L27.3109606,24.0004367 L16.81133,12.9695878 C15.7295567,11.8330832 15.7295567,9.98975647 16.81133,8.85325182 C17.8942118,7.71558273 19.6476601,7.71558273 20.7305419,8.85325182 L33.18867,21.9416865 C34.2704433,23.0793555 34.2704433,24.9215178 33.18867,26.0580224 L20.7305419,39.1476215 C20.1885468,39.7158738 19.4802956,40 18.770936,40" id="path-1"></path>
+        <filter x="-58.3%" y="-23.4%" width="216.7%" height="165.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.198086504 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Right-Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fill-1-Copy-4">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill-opacity="0.403419384" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
